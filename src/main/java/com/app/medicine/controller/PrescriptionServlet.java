@@ -1,6 +1,7 @@
 package com.app.medicine.controller;
 
 import com.app.medicine.dao.PrescriptionDAO;
+import com.app.medicine.model.Prescription;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;
