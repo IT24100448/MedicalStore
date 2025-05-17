@@ -3,6 +3,7 @@ package com.app.medicine.controller;
 import com.app.medicine.dao.OrderDAO;
 import com.app.medicine.dao.PrescriptionDAO;
 import com.app.medicine.model.Order;
+import com.app.medicine.model.Prescription;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.MultipartConfig;
