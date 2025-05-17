@@ -2,7 +2,7 @@ package com.app.medicine.model;
 
 import java.time.LocalDateTime;
 
-public class Payment {
+public classPayment {
     private String paymentId;
     private String orderId;
     private String userName;
